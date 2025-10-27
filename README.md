@@ -11,4 +11,4 @@
 - <b>HTML Website</b>
   - [Movies Website](https://github.com/henleyjessica16/movies_website.git)
 - <b>LA Crime Analysis Report</b>
-  - [Excel Analysis Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Excel Analysis Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
