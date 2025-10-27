@@ -1,6 +1,6 @@
 <h1>Hey, I'm Jessica! <br/> Business Intelligence & Data Analytics Student</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Below are the projects I have done so far:</h2>
 
 - <b>Research & Innovation Project on Schizophrenia Diagnosis using Machine Learning</b>
   - [Schizophrenia ML Research](https://github.com/henleyjessica16/schizophrenia_ml_analysis.git)
